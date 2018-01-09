@@ -1,3 +1,3 @@
 # jahenkor.github.io
 
-Implement Using Jekyll
+My minimal website
